@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 import 'package:sprintf/sprintf.dart';
-import 'package:uuid/data.dart';
+import 'package:uuid_beta/data.dart';
 
 import 'parsing.dart';
 import 'rng.dart';

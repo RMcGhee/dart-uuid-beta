@@ -3,9 +3,9 @@
 import 'dart:typed_data';
 
 import 'package:test/test.dart';
-import 'package:uuid/data.dart';
-import 'package:uuid/uuid.dart';
-import 'package:uuid/rng.dart';
+import 'package:uuid_beta/data.dart';
+import 'package:uuid_beta/uuid.dart';
+import 'package:uuid_beta/rng.dart';
 
 void main() {
   var uuid = const Uuid();
